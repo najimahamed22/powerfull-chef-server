@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/85sV9KD/chef-img1.jpg",
+    "chef_name": "John Smith",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 10000,
+    "slider_title": "Cooking With Intel",
+    "slider_desc": "How Intel Employees Keep Their Dishes Fresh.",
+    "slider_img": "https://cdn.vox-cdn.com/thumbor/iS83JYOhWmZCbSB4PL304OTzOmc=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/71819728/damina_1.86.jpg"
+  },
+
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/zRXdPPw/chef-img5.jpg",
+    "chef_name": "Samantha Lee",
+    "years_of_experience": 8,
+    "number_of_recipes": 75,
+    "likes": 8500,
+    "slider_title": "Super Delicious Food",
+    "slider_desc": "We are provide tasty & sweetie food.",
+    "slider_img": "https://img.delicious.com.au/BuIKm1iS/del/2020/08/french-toast-with-caramelised-pears-and-ricotta-137405-2.jpg"
+  },
+
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/vQ1SYQ1/chef-img6.jpg",
+    "chef_name": "David Kim",
+    "years_of_experience": 12,
+    "number_of_recipes": 100,
+    "likes": 12000,
+    "slider_title": "American Most Popular Food Juice",
+    "slider_desc": "We have international chef provider.",
+    "slider_img": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1625764236/Best-Food-In-SA-Main/Best-Food-In-SA-Main-1120x732.jpg"
+  },
+
+  {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/vccfnpQ/chef-img2.jpg",
+    "chef_class_picture": "https://i.ibb.co/mbvSrVP/chep-class1.jpg",
+    "chef_class_title": "Seafood & Wine",
+    "chef_name": "Maria Rodriguez",
+    "years_of_experience": 6,
+    "number_of_recipes": 40,
+    "likes": 5000,
+    "slider_title": "Fun and Easy to Become Cooking",
+    "slider_desc": "Master of dimsum the legendary one chef.",
+    "slider_img": "https://hips.hearstapps.com/hmg-prod/images/delish-cheeseburger-cups-horizontal-1653660332.jpeg"
+  },
+
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/qJh0xqs/chef-img4.jpg",
+    "chef_class_picture": "https://i.ibb.co/dDpykf4/chep-class2.jpg",
+    "chef_class_title": "International Cuisine",
+    "chef_name": "Michael Johnson",
+    "years_of_experience": 15,
+    "number_of_recipes": 200,
+    "likes": 15000,
+    "slider_title": "Keaton The Smiling Chef",
+    "slider_desc": "Master of dimsum the legendary one chef.",
+    "slider_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dim_sum.jpg/1280px-Dim_sum.jpg"
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/xJzdpfn/chef-img3.jpg",
+    "chef_class_picture": "https://i.ibb.co/jD0HzVq/chep-class3.jpg",
+    "chef_class_title": "French Desserts",
+    "chef_name": "David Lewis",
+    "years_of_experience": 9,
+    "number_of_recipes": 88,
+    "likes": 1200,
+    "slider_title": "Super Delicious Food",
+    "slider_desc": "We are provide tasty & sweetie food.",
+    "slider_img": "https://imgmedia.lbb.in/media/2019/07/5d2780f4124825388d4c0f77_1562870004282.jpg"
+  }
+]

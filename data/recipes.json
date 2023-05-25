@@ -1,0 +1,536 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/85sV9KD/chef-img1.jpg",
+    "chef_name": "John Smith",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 10000,
+    "bio": "John Smith is a chef with 10 years of experience. He has created 50 recipes and has gained 10000 likes for his dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Chicken Fajitas",
+        "id": 20,
+        "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 teaspoons chili powder",
+          "1 teaspoon cumin",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "1/4 teaspoon salt",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "Tortillas, for serving"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
+          "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
+          "In a large bowl, toss the sliced peppers and onions with the olive oil.",
+          "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
+          "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
+          "Serve with tortillas."
+        ],
+        "rating": 3.0
+      },
+      {
+        "recipe_name": "Shrimp Scampi",
+        "id": 21,
+        "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
+        "ingredients": [
+          "1 pound shrimp, peeled and deveined",
+          "1/4 cup olive oil",
+          "4 cloves garlic, minced",
+          "1/2 teaspoon red pepper flakes",
+          "Salt and pepper, to taste",
+          "1/4 cup white wine",
+          "2 tablespoons lemon juice",
+          "1/4 cup chopped fresh parsley",
+          "Linguine, for serving"
+        ],
+        "method": [
+          "Cook the linguine according to package directions until al dente.",
+          "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
+          "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
+          "Add the shrimp and season with salt and pepper.",
+          "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
+          "Add the white wine and lemon juice to the skillet and bring to a simmer.",
+          "Stir in the chopped parsley.",
+          "Serve the shrimp scampi over the cooked linguine."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Baked Salmon with Lemon and Dill",
+        "id": 22,
+        "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
+        "ingredients": [
+          "4 salmon fillets",
+          "2 tablespoons olive oil",
+          "Salt and pepper, to taste",
+          "2 lemons, sliced",
+          "4 sprigs fresh dill",
+          "1/4 cup white wine"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "Line a baking sheet with foil and lightly grease with olive oil.",
+          "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
+          "Top each fillet with a slice of lemon and a sprig of dill.",
+          "Drizzle the white wine over the salmon fillets.",
+          "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
+          "Serve hot."
+        ],
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/zRXdPPw/chef-img5.jpg",
+    "chef_name": "Samantha Lee",
+    "years_of_experience": 8,
+    "number_of_recipes": 75,
+    "likes": 8500,
+    "bio": "Samantha Lee is a chef with 8 years of experience. She has created 75 recipes and has gained 8500 likes for her dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Chicken Fajitas",
+        "id": 20,
+        "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 teaspoons chili powder",
+          "1 teaspoon cumin",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "1/4 teaspoon salt",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "Tortillas, for serving"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
+          "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
+          "In a large bowl, toss the sliced peppers and onions with the olive oil.",
+          "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
+          "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
+          "Serve with tortillas."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Shrimp Scampi",
+        "id": 21,
+        "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
+        "ingredients": [
+          "1 pound shrimp, peeled and deveined",
+          "1/4 cup olive oil",
+          "4 cloves garlic, minced",
+          "1/2 teaspoon red pepper flakes",
+          "Salt and pepper, to taste",
+          "1/4 cup white wine",
+          "2 tablespoons lemon juice",
+          "1/4 cup chopped fresh parsley",
+          "Linguine, for serving"
+        ],
+        "method": [
+          "Cook the linguine according to package directions until al dente.",
+          "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
+          "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
+          "Add the shrimp and season with salt and pepper.",
+          "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
+          "Add the white wine and lemon juice to the skillet and bring to a simmer.",
+          "Stir in the chopped parsley.",
+          "Serve the shrimp scampi over the cooked linguine."
+        ],
+        "rating": 5.0
+      },
+      {
+        "recipe_name": "Baked Salmon with Lemon and Dill",
+        "id": 22,
+        "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
+        "ingredients": [
+          "4 salmon fillets",
+          "2 tablespoons olive oil",
+          "Salt and pepper, to taste",
+          "2 lemons, sliced",
+          "4 sprigs fresh dill",
+          "1/4 cup white wine"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "Line a baking sheet with foil and lightly grease with olive oil.",
+          "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
+          "Top each fillet with a slice of lemon and a sprig of dill.",
+          "Drizzle the white wine over the salmon fillets.",
+          "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
+          "Serve hot."
+        ],
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/vQ1SYQ1/chef-img6.jpg",
+    "chef_name": "David Kim",
+    "years_of_experience": 12,
+    "number_of_recipes": 100,
+    "likes": 12000,
+    "bio": "David Kim is a chef with 12 years of experience. He has created 100 recipes and has gained 12000 likes for his dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Chicken Fajitas",
+        "id": 20,
+        "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 teaspoons chili powder",
+          "1 teaspoon cumin",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "1/4 teaspoon salt",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "Tortillas, for serving"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
+          "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
+          "In a large bowl, toss the sliced peppers and onions with the olive oil.",
+          "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
+          "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
+          "Serve with tortillas."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Shrimp Scampi",
+        "id": 21,
+        "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
+        "ingredients": [
+          "1 pound shrimp, peeled and deveined",
+          "1/4 cup olive oil",
+          "4 cloves garlic, minced",
+          "1/2 teaspoon red pepper flakes",
+          "Salt and pepper, to taste",
+          "1/4 cup white wine",
+          "2 tablespoons lemon juice",
+          "1/4 cup chopped fresh parsley",
+          "Linguine, for serving"
+        ],
+        "method": [
+          "Cook the linguine according to package directions until al dente.",
+          "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
+          "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
+          "Add the shrimp and season with salt and pepper.",
+          "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
+          "Add the white wine and lemon juice to the skillet and bring to a simmer.",
+          "Stir in the chopped parsley.",
+          "Serve the shrimp scampi over the cooked linguine."
+        ],
+        "rating": 3.0
+      },
+      {
+        "recipe_name": "Baked Salmon with Lemon and Dill",
+        "id": 22,
+        "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
+        "ingredients": [
+          "4 salmon fillets",
+          "2 tablespoons olive oil",
+          "Salt and pepper, to taste",
+          "2 lemons, sliced",
+          "4 sprigs fresh dill",
+          "1/4 cup white wine"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "Line a baking sheet with foil and lightly grease with olive oil.",
+          "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
+          "Top each fillet with a slice of lemon and a sprig of dill.",
+          "Drizzle the white wine over the salmon fillets.",
+          "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
+          "Serve hot."
+        ],
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/vccfnpQ/chef-img2.jpg",
+    "chef_name": "Maria Rodriguez",
+    "years_of_experience": 6,
+    "number_of_recipes": 40,
+    "likes": 5000,
+    "bio": "Maria Rodriguez is a chef with 6 years of experience. She has created 40 recipes and has gained 5000 likes for her dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Chicken Fajitas",
+        "id": 20,
+        "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 teaspoons chili powder",
+          "1 teaspoon cumin",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "1/4 teaspoon salt",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "Tortillas, for serving"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
+          "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
+          "In a large bowl, toss the sliced peppers and onions with the olive oil.",
+          "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
+          "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
+          "Serve with tortillas."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Shrimp Scampi",
+        "id": 21,
+        "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
+        "ingredients": [
+          "1 pound shrimp, peeled and deveined",
+          "1/4 cup olive oil",
+          "4 cloves garlic, minced",
+          "1/2 teaspoon red pepper flakes",
+          "Salt and pepper, to taste",
+          "1/4 cup white wine",
+          "2 tablespoons lemon juice",
+          "1/4 cup chopped fresh parsley",
+          "Linguine, for serving"
+        ],
+        "method": [
+          "Cook the linguine according to package directions until al dente.",
+          "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
+          "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
+          "Add the shrimp and season with salt and pepper.",
+          "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
+          "Add the white wine and lemon juice to the skillet and bring to a simmer.",
+          "Stir in the chopped parsley.",
+          "Serve the shrimp scampi over the cooked linguine."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Baked Salmon with Lemon and Dill",
+        "id": 22,
+        "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
+        "ingredients": [
+          "4 salmon fillets",
+          "2 tablespoons olive oil",
+          "Salt and pepper, to taste",
+          "2 lemons, sliced",
+          "4 sprigs fresh dill",
+          "1/4 cup white wine"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "Line a baking sheet with foil and lightly grease with olive oil.",
+          "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
+          "Top each fillet with a slice of lemon and a sprig of dill.",
+          "Drizzle the white wine over the salmon fillets.",
+          "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
+          "Serve hot."
+        ],
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/qJh0xqs/chef-img4.jpg",
+    "chef_name": "Michael Johnson",
+    "years_of_experience": 15,
+    "number_of_recipes": 200,
+    "likes": 15000,
+    "bio": "Michael Johnson is a chef with 15 years of experience. He has created 200 recipes and has gained 15000 likes for his dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Chicken Fajitas",
+        "id": 20,
+        "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 teaspoons chili powder",
+          "1 teaspoon cumin",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "1/4 teaspoon salt",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "Tortillas, for serving"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
+          "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
+          "In a large bowl, toss the sliced peppers and onions with the olive oil.",
+          "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
+          "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
+          "Serve with tortillas."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Shrimp Scampi",
+        "id": 21,
+        "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
+        "ingredients": [
+          "1 pound shrimp, peeled and deveined",
+          "1/4 cup olive oil",
+          "4 cloves garlic, minced",
+          "1/2 teaspoon red pepper flakes",
+          "Salt and pepper, to taste",
+          "1/4 cup white wine",
+          "2 tablespoons lemon juice",
+          "1/4 cup chopped fresh parsley",
+          "Linguine, for serving"
+        ],
+        "method": [
+          "Cook the linguine according to package directions until al dente.",
+          "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
+          "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
+          "Add the shrimp and season with salt and pepper.",
+          "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
+          "Add the white wine and lemon juice to the skillet and bring to a simmer.",
+          "Stir in the chopped parsley.",
+          "Serve the shrimp scampi over the cooked linguine."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Baked Salmon with Lemon and Dill",
+        "id": 22,
+        "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
+        "ingredients": [
+          "4 salmon fillets",
+          "2 tablespoons olive oil",
+          "Salt and pepper, to taste",
+          "2 lemons, sliced",
+          "4 sprigs fresh dill",
+          "1/4 cup white wine"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "Line a baking sheet with foil and lightly grease with olive oil.",
+          "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
+          "Top each fillet with a slice of lemon and a sprig of dill.",
+          "Drizzle the white wine over the salmon fillets.",
+          "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
+          "Serve hot."
+        ],
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/xJzdpfn/chef-img3.jpg",
+    "chef_name": "David Lewis",
+    "years_of_experience": 9,
+    "number_of_recipes": 88,
+    "likes": 1200,
+    "bio": "David Lewis is a chef with 9 years of experience. He has created 88 recipes and has gained 1200 likes for his dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Chicken Fajitas",
+        "id": 20,
+        "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 teaspoons chili powder",
+          "1 teaspoon cumin",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "1/4 teaspoon salt",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "Tortillas, for serving"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
+          "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
+          "In a large bowl, toss the sliced peppers and onions with the olive oil.",
+          "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
+          "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
+          "Serve with tortillas."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Shrimp Scampi",
+        "id": 21,
+        "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
+        "ingredients": [
+          "1 pound shrimp, peeled and deveined",
+          "1/4 cup olive oil",
+          "4 cloves garlic, minced",
+          "1/2 teaspoon red pepper flakes",
+          "Salt and pepper, to taste",
+          "1/4 cup white wine",
+          "2 tablespoons lemon juice",
+          "1/4 cup chopped fresh parsley",
+          "Linguine, for serving"
+        ],
+        "method": [
+          "Cook the linguine according to package directions until al dente.",
+          "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
+          "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
+          "Add the shrimp and season with salt and pepper.",
+          "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
+          "Add the white wine and lemon juice to the skillet and bring to a simmer.",
+          "Stir in the chopped parsley.",
+          "Serve the shrimp scampi over the cooked linguine."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Baked Salmon with Lemon and Dill",
+        "id": 22,
+        "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
+        "ingredients": [
+          "4 salmon fillets",
+          "2 tablespoons olive oil",
+          "Salt and pepper, to taste",
+          "2 lemons, sliced",
+          "4 sprigs fresh dill",
+          "1/4 cup white wine"
+        ],
+        "method": [
+          "Preheat the oven to 400°F.",
+          "Line a baking sheet with foil and lightly grease with olive oil.",
+          "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
+          "Top each fillet with a slice of lemon and a sprig of dill.",
+          "Drizzle the white wine over the salmon fillets.",
+          "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
+          "Serve hot."
+        ],
+        "rating": 4.0
+      }
+    ]
+  }
+]
